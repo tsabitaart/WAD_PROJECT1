@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>CVTsabita</title>
+	<head>
+	<body>
+		<h1> Curriculum Vitae </h1>
+		<br><img src="TSABITA_RATU_3.jpg" width="200"/>
+		<hr> </hr>
+		<h2> Biodata </h2>
+		<p><strong>Nama : </strong>Tsabita Ratu Khairunnisa</p>
+		<p><strong>TTL : </strong>Sukoharjo, 25 Juni 2003</p>
+		<p><strong>Alamat : </strong>Jl. Sukabirus Bandung</P>
+		<hr> </hr>
+		<h2> Educational Background </h2>
+		<table border ="1">
+			<tr>
+				<td>Jenjang Pendidikan</td>
+				<td>Nama Sekolah/Perguruan Tinggi</td>
+				<td>Tahun Masuk</td>
+				<td>Tahun Keluar</td>
+			</tr>
+			<tr>
+				<td>SMA</td>
+				<td>SMAN 4 Surakarta</td>
+				<td>2018</td>
+				<td>2021</td>
+			</tr>
+			<tr>
+				<td>SMP</td>
+				<td>SMP Muhammadiyah PK Surakarta</td>
+				<td>2015</td>
+				<td>2018</td>
+			</tr>
+			<tr>
+				<td>SD</td>
+				<td>SDIT Nur Hidayah Surakarta</td>
+				<td>2009</td>
+				<td>2015</td>
+			</tr>
+		</table>
+		<hr> </hr>
+		<h2>About Me</h2>
+		<p>An enthusiastic college student that eager to learn, grow, and excel in various fields of Information System. Motivated to be succesful through the hard work, attention to details, and excellent sense of responsibility.</p>
